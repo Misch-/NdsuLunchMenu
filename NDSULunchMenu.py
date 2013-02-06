@@ -1,7 +1,7 @@
 """******************************************************************
  * Displays information about NDSU Lunch menus for various locations*
  * 																	*
- * Carlin Mische													*
+ * oh god i put this on 4chan 													*
  * v1.0																*
  *****************************************************************"""
 

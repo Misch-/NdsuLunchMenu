@@ -1,3 +1,6 @@
+This is old and embarrassing. I should probably delete this repo among others.
+
+
 Ndsu Lunch Menu
 =============
 

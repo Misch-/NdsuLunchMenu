@@ -1,4 +1,4 @@
-This is old and embarrassing. I should probably delete this repo among others.
+This is old as heck, but you gotta admit it's kinda cute.
 
 
 Ndsu Lunch Menu
